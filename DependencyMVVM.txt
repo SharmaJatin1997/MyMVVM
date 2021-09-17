@@ -1,0 +1,8 @@
+Gradle.app
+
+  dataBinding {
+        enabled = true
+    }
+
+  //life cycle MVVM
+    implementation 'android.arch.lifecycle:extensions:1.1.1'
